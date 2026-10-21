@@ -1,0 +1,72 @@
+Transaction detail   Fund: GEN01   Org: 2410,,,,,,,,,,,,,,
+Fiscal year 2027   Through: 2026-10-15,,,,,,,,,,,,,,
+Account,Account Title,Org,Program,Type,Document,Description,Commit Indicator,Fund,Activity,Location,Transaction Date,Field,Amount,Running Total
+2110,Classified salaries,2410,6600,JV,J878301,Payroll,U,GEN01,,,2026-07-04,YTD,9815.43,9815.43
+2110,Classified salaries,2410,6600,JV,J785159,Payroll,U,GEN01,,,2026-07-18,YTD,12528.91,22344.34
+2110,Classified salaries,2410,6600,JV,J587387,Payroll,U,GEN01,,,2026-07-26,YTD,3815.91,26160.25
+2110,Classified salaries,2410,6600,JV,J646441,Payroll,U,GEN01,,,2026-09-22,YTD,34506.39,60666.64
+3110,Retirement benefits,2410,6600,JV,J475534,Payroll,U,GEN01,,,2026-08-02,YTD,2499.41,2499.41
+3110,Retirement benefits,2410,6600,JV,J315261,Payroll,U,GEN01,,,2026-08-08,YTD,437.18,2936.59
+3110,Retirement benefits,2410,6600,JV,J719358,Payroll,U,GEN01,,,2026-08-20,YTD,3159.83,6096.42
+3110,Retirement benefits,2410,6600,JV,J303461,Payroll,U,GEN01,,,2026-09-13,YTD,7570.26,13666.68
+3410,Health benefits,2410,6600,JV,J207569,Payroll,U,GEN01,,,2026-07-14,YTD,2028.63,2028.63
+3410,Health benefits,2410,6600,JV,J982194,Payroll,U,GEN01,,,2026-07-25,YTD,791.47,2820.10
+3410,Health benefits,2410,6600,JV,J364475,Payroll,U,GEN01,,,2026-07-29,YTD,3835.00,6655.10
+3410,Health benefits,2410,6600,JV,J383515,Payroll,U,GEN01,,,2026-10-14,YTD,5344.90,12000.00
+4310,Printing and copy supplies,2410,6600,INV,I114223,Copper Leaf Office Supply,U,GEN01,,,2026-07-11,YTD,1135.96,1135.96
+4310,Printing and copy supplies,2410,6600,PO,P4078553,Copper Leaf Office Supply,U,GEN01,,,2026-09-19,ENC,1250.00,2385.96
+4310,Printing and copy supplies,2410,6600,INV,I438146,Copper Leaf Office Supply,U,GEN01,,,2026-09-22,YTD,3729.98,6115.94
+4310,Printing and copy supplies,2410,6600,INV,I525810,Copper Leaf Office Supply,U,GEN01,,,2026-10-10,YTD,1554.24,7670.18
+4320,Event supplies,2410,6600,INV,I464642,Ridgeway Party Rental,U,GEN01,,,2026-07-24,YTD,2090.66,2090.66
+4320,Event supplies,2410,6600,PO,P5846277,Ridgeway Party Rental,U,GEN01,,,2026-08-05,ENC,900.00,2990.66
+4320,Event supplies,2410,6600,INV,I287775,Copper Leaf Office Supply,U,GEN01,,,2026-09-15,YTD,2784.74,5775.40
+4330,Promotional items,2410,6600,INV,I770708,Summit Promo Goods,U,GEN01,,,2026-07-10,YTD,3196.29,3196.29
+4330,Promotional items,2410,6600,PO,P2122204,Summit Promo Goods,U,GEN01,,,2026-08-08,ENC,2400.00,5596.29
+4330,Promotional items,2410,6600,INV,I458224,Summit Promo Goods,U,GEN01,,,2026-09-23,YTD,114.46,5710.75
+4410,"Photo equipment, non-capital",2410,6600,INV,I887794,Lakeside Camera,U,GEN01,,,2026-08-02,YTD,1189.99,1189.99
+5110,Printing services,2410,6600,PO,P8854266,Harbor Lane Press,U,GEN01,,,2026-07-21,ENC,5426.49,5426.49
+5110,Printing services,2410,6600,INV,I264112,Harbor Lane Press,U,GEN01,,,2026-07-30,YTD,8363.07,13789.56
+5110,Printing services,2410,6600,INV,I330140,Harbor Lane Press,U,GEN01,,,2026-08-14,YTD,494.95,14284.51
+5110,Printing services,2410,6600,INV,I630527,Cedar Valley Printing,U,GEN01,,,2026-08-24,YTD,5349.10,19633.61
+5110,Printing services,2410,6600,PO,P7398993,Cedar Valley Printing,U,GEN01,,,2026-08-28,ENC,4173.51,23807.12
+5110,Printing services,2410,6600,INV,I453992,Cedar Valley Printing,U,GEN01,,,2026-10-02,YTD,3632.88,27440.00
+5120,Digital advertising,2410,6600,INV,I441034,Northgate Media,U,GEN01,,,2026-07-08,YTD,350.41,350.41
+5120,Digital advertising,2410,6600,PO,P5588323,Northgate Media,U,GEN01,,,2026-07-13,ENC,6421.04,6771.45
+5120,Digital advertising,2410,6600,INV,I906976,Northgate Media,U,GEN01,,,2026-07-16,YTD,2461.67,9233.12
+5120,Digital advertising,2410,6600,INV,I913697,Brightline Digital,U,GEN01,,,2026-07-25,YTD,15218.32,24451.44
+5120,Digital advertising,2410,6600,PO,P9810505,Brightline Digital,U,GEN01,,,2026-08-03,ENC,9978.96,34430.40
+5120,Digital advertising,2410,6600,INV,I983488,Brightline Digital,U,GEN01,,,2026-09-17,YTD,13219.60,47650.00
+5130,Print and outdoor advertising,2410,6600,INV,I942007,Valley Weekly News,U,GEN01,,,2026-07-11,YTD,2587.95,2587.95
+5130,Print and outdoor advertising,2410,6600,INV,I896233,Northgate Outdoor,U,GEN01,,,2026-07-12,YTD,8090.78,10678.73
+5130,Print and outdoor advertising,2410,6600,INV,I386107,Valley Weekly News,U,GEN01,,,2026-07-23,YTD,600.73,11279.46
+5130,Print and outdoor advertising,2410,6600,PO,P2144995,Valley Weekly News,U,GEN01,,,2026-08-23,ENC,120.38,11399.84
+5130,Print and outdoor advertising,2410,6600,INV,I175794,Northgate Outdoor,U,GEN01,,,2026-09-14,YTD,3220.54,14620.38
+5130,Print and outdoor advertising,2410,6600,PO,P9435347,Northgate Outdoor,U,GEN01,,,2026-10-04,ENC,5879.62,20500.00
+5140,Radio and streaming advertising,2410,6600,INV,I221731,Riverbend Radio Group,U,GEN01,,,2026-07-05,YTD,2281.74,2281.74
+5140,Radio and streaming advertising,2410,6600,INV,I717508,Westward Streaming,U,GEN01,,,2026-08-08,YTD,128.30,2410.04
+5140,Radio and streaming advertising,2410,6600,INV,I796222,Westward Streaming,U,GEN01,,,2026-09-03,YTD,4652.27,7062.31
+5140,Radio and streaming advertising,2410,6600,PO,P1473553,Riverbend Radio Group,U,GEN01,,,2026-09-07,ENC,944.67,8006.98
+5140,Radio and streaming advertising,2410,6600,PO,P3030168,Westward Streaming,U,GEN01,,,2026-09-13,ENC,6255.33,14262.31
+5140,Radio and streaming advertising,2410,6600,INV,I894441,Riverbend Radio Group,U,GEN01,,,2026-09-19,YTD,2737.69,17000.00
+5210,Software subscriptions,2410,6600,INV,I758717,Scheduling app license,U,GEN01,,,2026-07-01,YTD,5726.55,5726.55
+5210,Software subscriptions,2410,6600,INV,I129740,Survey tool license,U,GEN01,,,2026-07-17,YTD,4345.93,10072.48
+5210,Software subscriptions,2410,6600,INV,I765507,Design suite license,U,GEN01,,,2026-08-12,YTD,166.79,10239.27
+5210,Software subscriptions,2410,6600,PO,P9609336,Design suite license,U,GEN01,,,2026-08-17,ENC,1440.00,11679.27
+5210,Software subscriptions,2410,6600,INV,I114570,Design suite license,U,GEN01,,,2026-08-27,YTD,2720.73,14400.00
+5310,Postage and mailing,2410,6600,INV,I625828,Postal permit account,U,GEN01,,,2026-08-06,YTD,2214.36,2214.36
+5410,Conference and training,2410,6600,INV,I315350,Regional comms conference,U,GEN01,,,2026-08-29,YTD,627.12,627.12
+5410,Conference and training,2410,6600,INV,I605799,Regional comms conference,U,GEN01,,,2026-10-14,YTD,2012.88,2640.00
+5510,Event venues and catering,2410,6600,INV,I604815,Ridgeway Event Hall,U,GEN01,,,2026-07-04,YTD,297.83,297.83
+5510,Event venues and catering,2410,6600,PO,P7064094,Ridgeway Event Hall,U,GEN01,,,2026-07-28,ENC,2137.62,2435.45
+5510,Event venues and catering,2410,6600,INV,I736517,Pinecrest Catering,U,GEN01,,,2026-07-31,YTD,80.04,2515.49
+5510,Event venues and catering,2410,6600,INV,I294578,Pinecrest Catering,U,GEN01,,,2026-08-29,YTD,3988.83,6504.32
+5510,Event venues and catering,2410,6600,INV,I382013,Ridgeway Event Hall,U,GEN01,,,2026-08-31,YTD,4568.80,11073.12
+5510,Event venues and catering,2410,6600,PO,P3558912,Pinecrest Catering,U,GEN01,,,2026-09-20,ENC,1362.38,12435.50
+5610,Photo and video services,2410,6600,PO,P8448494,Oakmont Studio,U,GEN01,,,2026-08-02,ENC,3501.10,3501.10
+5610,Photo and video services,2410,6600,INV,I620327,Oakmont Studio,U,GEN01,,,2026-08-09,YTD,1407.59,4908.69
+5610,Photo and video services,2410,6600,INV,I246286,Oakmont Studio,U,GEN01,,,2026-08-24,YTD,2979.08,7887.77
+5610,Photo and video services,2410,6600,PO,P3269396,Oakmont Studio,U,GEN01,,,2026-10-03,ENC,698.90,8586.67
+5610,Photo and video services,2410,6600,INV,I195206,Oakmont Studio,U,GEN01,,,2026-10-09,YTD,1013.33,9600.00
+5650,Translation services,2410,6600,INV,I353450,Clearword Translation,U,GEN01,,,2026-08-15,YTD,1450.00,1450.00
+5710,Memberships and dues,2410,6600,INV,I383820,College marketing association,U,GEN01,,,2026-08-24,YTD,1554.06,1554.06
+5710,Memberships and dues,2410,6600,INV,I736217,College marketing association,U,GEN01,,,2026-09-29,YTD,1320.94,2875.00
